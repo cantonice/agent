@@ -1,0 +1,4 @@
+interface:
+  display_name: "计算机视觉数据集画像"
+  short_description: "统计数据规模、类别、目标几何和分辨率，生成五张图并核查标注质量"
+  default_prompt: "使用 $dataset-profile 为指定计算机视觉数据集生成数据画像和质量检查结果。"
